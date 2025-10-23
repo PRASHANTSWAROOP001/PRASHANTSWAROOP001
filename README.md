@@ -1,22 +1,22 @@
-# Hi, I'm Prashant Swaroop 👋  
+Hi, I'm Prashant Swaroop 👋  
+A **backend-focused full-stack developer** — yes, you heard that right.
 
-I’m a **Full-Stack Developer** (with a growing focus on **Backend Engineering**) who loves exploring how systems work at scale.  
-I enjoy diving deep into **system design, design patterns, and real-time applications** — building things that are both practical and scalable.  
+Like most developers, I started with HTML, a button, and the magic of “something happens when you click it.” That curiosity pulled me deep into the web-dev jungle.
 
-💡 Currently learning more about **distributed systems and backend best practices** to level up my engineering skills.  
+My adventure began with JavaScript and React — yep, even Redux and the chaos that comes with it. But once I touched backend development, I realized I was never really a frontend dev.  
+It was always about performance, reliability, and how systems work under the hood.
 
-Outside of coding, I love to **write and share my learnings** — turning struggles into notes that help me (and hopefully others) grow.  
-
----
-
-### ⚡ Tech Stack  
-- **Languages**: JavaScript, TypeScript, Python  
-- **Frontend**: React, Next.js  
-- **Backend**: Node.js, Express, Hono  
-- **Cloud & DevOps**: AWS, Azure, Docker  
-- …and a bunch of other tools I pick up along the way 🙂  
+Today, I enjoy building fault-tolerant, minimal, and scalable apps — learning and growing as a **backend engineer at heart**.
 
 ---
+
+### ⚡ Tech Stack
+- **Languages:** JavaScript, TypeScript, Python, Go 
+- **Frontend:** React, Next.js, Redux, Zustand  
+- **Backend:** Node.js, Express, Hono  
+- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes
+- …and whatever else helps get the job done 🙂
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PRASHANTSWAROOP001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
